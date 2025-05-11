@@ -1,5 +1,7 @@
 <h1> Hi there 👋 You can call me James<h5>(if you want)</h5> </h1>
-[<>]
+
+<code><img src="./idle-pixel.gif"></code>
+
 <!--
 **Tamekhanh/Tamekhanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
