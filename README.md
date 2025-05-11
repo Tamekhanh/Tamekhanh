@@ -1,5 +1,7 @@
 <h1> Hi there 👋 You can call me James<h5>(if you want)</h5> </h1>
-[<img src="https://img.icons8.com/bubbles/100/4a90e2/facebook-new.png" />][Facebook]
+<a href="https://www.facebook.com/hoangkhanh.le.129/">
+  <img src="https://img.icons8.com/bubbles/100/4a90e2/facebook-new.png" />
+</a>
 <br />
 <hr />
 <img class="dog" src="./idle-pixel.gif" alt="Dog">
