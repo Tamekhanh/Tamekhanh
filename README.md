@@ -2,11 +2,11 @@
 
 I'm a software developer and a student at **Hoa Sen University (HSU)** 🏫. I am passionate about building mobile apps and web applications.
 
-- 🔭 I’m currently working on **[Tên dự án bạn đang làm hoặc "Personal Projects"]**
+- 🔭 I’m currently working on **MirAI**
 - 🌱 I’m currently learning **Advanced Flutter & Backend patterns**
 - 🎓 Major: **Software Engineering / Information Technology**
 - 💬 Ask me about **Flutter, Angular, or Python**
-- 📫 How to reach me: **Jameanderson2004@gmail.com**
+- 📫 How to reach me: **jameanderson2004@gmail.com**
 
 ---
 
