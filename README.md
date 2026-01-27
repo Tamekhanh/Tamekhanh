@@ -40,6 +40,6 @@ I'm a software developer and a student at **Hoa Sen University (HSU)** 🏫. I a
 ### 🤝 Connect with me
 
 <p align="left">
-<a href="[https://www.facebook.com/hoangkhanh.le.129/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.facebook.com/hoangkhanh.le.129/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="mailto:jameanderson2004@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
