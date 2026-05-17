@@ -1,6 +1,6 @@
 ## Current Project: Game Project_S 
-## Platform Unity
-## Turn-Base/Card game
+Platform Unity
+Turn-Base/Card game
 
 # 🛠 Skills
 
