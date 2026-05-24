@@ -1,7 +1,8 @@
 ## Current Project: Game Project_S 
-Platform Unity
-Turn-Base/Card game
-
+Platform Unity \n
+Turn-Base/Card game \n
+You can see gameplay and process in my facebook: 
+[here](https://www.facebook.com/profile.php?id=61578609584854)
 # 🛠 Skills
 
 ---
