@@ -1,7 +1,7 @@
 ## Current Project: Game Project_S 
 Platform Unity <br />
 Turn-Base/Card game <br />
-You can see gameplay and process in my facebook: 
+You can see gameplay and process on my facebook: 
 [here](https://www.facebook.com/profile.php?id=61578609584854)
 # 🛠 Skills
 
@@ -42,6 +42,7 @@ You can see gameplay and process in my facebook:
 * Figma (UI/UX Design)
 * Android Studio
 * Visual Studio, Visual Studio Code
+* Unity
 
 ---
 
