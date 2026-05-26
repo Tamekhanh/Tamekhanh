@@ -1,6 +1,7 @@
 ## Current Project: Game Project_S 
 Platform Unity <br />
 Turn-Base/Card game <br />
+Visible: Private <br />
 You can see gameplay and process on my facebook: 
 [here](https://www.facebook.com/profile.php?id=61578609584854)
 # 🛠 Skills
